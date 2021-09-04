@@ -1,0 +1,146 @@
+html  body{
+  padding: 25px;
+  margin: 25px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header {
+   background-color: rgba(103, 137, 238, 0.905);
+   padding: 10px;
+}
+
+.but{
+    padding: 10px;
+}
+
+.but1 {
+    background: transparent;
+    border: none;
+    outline: none;
+    padding: 15px;
+}
+
+a {
+   color: white;
+   list-style-type: none;
+   text-decoration: none;
+   color: #fff
+}
+
+.menu{
+    margin-left: 320px;
+}
+
+ul li {
+    display: inline-block;
+    padding: 10px;
+}
+.icone {
+   float: right;
+   padding: 0 10px 20px;
+   
+}
+.ico {
+    position: relative;
+    top: -110px;
+    right: 100px;
+   
+} 
+
+.para1 {
+    display: inline-block;
+    height: 400px;
+    width: 320px;
+    padding: 25px;
+    color: #fff;
+
+}
+
+.but2 {
+    background: rgb(238, 111, 13);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.panzani {
+    display: inline;
+}
+
+.pizza {
+    position: relative;
+    height: 360px;
+    width: 550px;
+    top: 15px;
+    right: -200px;
+    padding: -5px;
+}
+
+.milieu {
+    display: inline;
+    position: relative;
+    justify-content: space-between;
+}
+
+.para2 {
+    display: inline-block;
+    height: 400px;
+    width: 540px;
+    padding: 35px;
+    line-height: 2em;
+}
+
+h2 {
+    color:  rgba(103, 137, 238, 0.905);
+    font-size: 35px;
+}
+
+.para3 {
+    display: inline;
+}
+.img1 {
+    position: absolute;
+    top: -600px;
+    right: -600px;
+}
+
+.img2 {
+    position: relative;
+    top: -350px;
+    right: -850px;
+    border: 9px solid #fff;
+}
+
+.bas {
+   margin-top: -250px;
+}
+
+.para4 {
+    height: 500px;
+    width: 400px;
+    padding: 30px;
+    line-height: 2em;
+}
+.but3 {
+    background: rgba(103, 137, 238, 0.905);
+    border-radius: 5px;
+    padding: 10px;
+}
+.figure{
+    display: flex;
+    align-items: center;
+    height: 300px;
+}
+
+.doc1{
+    width: 200px;
+    position: absolute;
+    top: 1200px;
+    left: 800px;
+    
+}
+
+.doc2{
+    position: relative;
+    top: -510px;
+    left: 1000px;
+}
